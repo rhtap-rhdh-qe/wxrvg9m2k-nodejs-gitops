@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wxrvg9m2k-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wxrvg9m2k-nodejs
